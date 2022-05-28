@@ -6,6 +6,8 @@ Repositório criado para o Desafio de Projeto
 	- Crescimento na área de tecnologia e poder atuar como programador neste universo. 
  2. Da minha parte:
 	-  Muita prática de programação, engajamento e disposição para evoluir;
+ 3. Publicações:
+	- https://www.linkedin.com/in/vener-fruet-da-silveira-54852623b/recent-activity/shares/
  4. Conquistas:
 	- Módulo I - Conteúdo de  abertura 6 atividades.
 		- Boas-vindas ao Decola Tech 3a edição;
