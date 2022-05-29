@@ -1,3 +1,4 @@
+
 # Desafio de Projeto sobre Git/GitHub da DIO
 Repositório criado para o Desafio de Projeto
 
@@ -26,9 +27,12 @@ Repositório criado para o Desafio de Projeto
 			- Introdução ao Git e ao GitHub;
 			- Criando seu primeiro repositório no GitHub para compartilhar seu progresso.
 
-	- Em curso:
 		- Módulo II - HTML/CSS3 2 atividades.
 			- Primeiros passos para desenvolvimento web.
+
+	- Em curso:
+		- Módulo II - HTML/CSS3 2 atividades.
+			- Introdução a criação de websites com HTML5 e CSS3.
 
  6. Cursos:
 	- Concluído:
