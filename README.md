@@ -20,6 +20,7 @@ Repositório criado para o Desafio de Projeto
 	- Concluído:
 		- Módulo I - Conteúdo de  abertura 6 atividades.
 			- Boas-vindas ao Decola Tech 3a edição;
+			- Aula Inaugural - Decola Tech 3a edição;
 			- Seja Protagonista Neste Bootcamp;
 			- Introdução à Programação e Pensamento Computacional;
 			- Introdução ao Git e ao GitHub;
