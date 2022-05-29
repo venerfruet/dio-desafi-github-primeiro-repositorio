@@ -15,6 +15,8 @@ Repositório criado para o Desafio de Projeto
 	-  Muita prática de programação, engajamento e disposição para evoluir;
 
  5. Bootcamps:
+ 
+	5.1. Decola Tech 3a edição:
 	- Concluído:
 		- Módulo I - Conteúdo de  abertura 6 atividades.
 			- Boas-vindas ao Decola Tech 3a edição;
@@ -22,6 +24,7 @@ Repositório criado para o Desafio de Projeto
 			- Introdução à Programação e Pensamento Computacional;
 			- Introdução ao Git e ao GitHub;
 			- Criando seu primeiro repositório no GitHub para compartilhar seu progresso.
+
 	- Em curso:
 		- Módulo II - HTML/CSS3 2 atividades.
 			- Primeiros passos para desenvolvimento web.
