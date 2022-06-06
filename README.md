@@ -31,9 +31,26 @@ Repositório criado para o Desafio de Projeto
 		- Módulo II - HTML/CSS3 2 atividades.
 			- Primeiros passos para desenvolvimento web.
 			- Introdução a criação de websites com HTML5 e CSS3.
-	- Em curso:
+
 		- Módulo III - Javascript 12 atividades.
-			
+			- IDE Instalação e Configuração (Visual Studio Code);
+			- Introdução ao JavaScript;
+			- Sintaxe Básica em JavaScript;
+			- Sintaxe e Operadores;
+			- Variáveis e Tipos;
+			- Desafios Iniciais JavaScript - Decola Tech;
+			- Funções;
+			- Debugging e Error Handling;
+			- Javascript Assíncrono;
+			- Orientação a objetos;
+			- Manipulando a D.O.M. com JavaScript;
+			- Desafios Intermediários JavaScript - Decola Tech.
+
+	- Em curso:
+		- Módulo IV - React Native 3 atividades.
+			- Introdução ao React Native;
+			- Construindo um App usando Sensor de Movimento com React Native;
+			- Criando aplicações móveis multiplataforma com React Native.
 
  6. Cursos:
 	- Concluído:
